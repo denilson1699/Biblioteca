@@ -1,0 +1,3 @@
+
+        <% ModeloPrincipal mp= (ModeloPrincipal)session.getAttribute("modPri"); %>
+        
